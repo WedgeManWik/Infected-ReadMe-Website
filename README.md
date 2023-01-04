@@ -12,33 +12,26 @@ I created this game for one of my University assignments. We were learning and g
 
 #### Some basic rules
 
-The player has to survive 10 rounds of zombies to win the game. 
+The player has to survive 10 rounds of zombies to win the game. They start off with a basic Model 860 shotgun, and can use this to kill the zombies which spawn in. The player will gain points from hitting the zombies, and will also be awarded extra points when killing a zombie. The player may spend these earnt points on purchasing guns, ammo and an upgrade. 
 
-#### Enemy types
+#### The Zombies
 
-There are two enemy types: Koopas and Goombas. 
-On the first wave of a level, four Koopas will spawn. On the next levels, two Koopas and two Goombas will spawn. The only way to remove the enemies is to kill them, if a player doesn’t kill them, they’ll stay for ever!
-
-**Koopas:** These guys walk left/ right and switch their direction after colliding with the edge of the map, or when flipping back up after being knocked over. When a player hits a POW block, the screen will shake and all Koopas on the map will be knocked over into their shell; in this state, the player can collect the Koopa shell. If the player collects a Koopa shell or kills it by jumping onto its back – the player will receive 200 points. Koopas can be knocked onto their shell either by shaking the screen from a POW block or hitting the ceiling of the tile map directly below the Koopa.
-
-**Goombas:** The only way to kill Goombas is to squash them by jumping onto them! POW blocks don’t scare Goombas and hitting the map tile beneath them doesn’t rock them one bit! The player can only kill a Goomba by squashing it. However, because of this – the player is rewarded with a nice 300 points.
+The zombies have very good sense off smell and can detect the player's scent from far away. The zombies' aims are to catch the player and infect them with their virus. In the first round, the zombies start off with 100 health points and only a few spawn; however, with every round the zombies get slightly stronger and spawn in greater numbers. In order for the player to keep up with this, they have to pick the gun of their choice, save up for it, get upgrades, dodge the zombies and stay out of range of their swing. If the player is too far away for a zombie's sense of smell, the zombie will stay idle. However, if the player is withing range, they will start chasing the player, and ultimately attack the player if close enough!
 
 #### Player Info & Controls
 
-The player can move around the map by using the “W”, “A” and “D” keys for Luigi, or arrow keys for Mario, excluding the down arrow. Pressing the “W” or up arrow will make the player jump. 
+The player is a sole survivor who is desperately trying to kill and get away from the zombies, they are imprisoned in an abandoned city which engulfs them, and their only way to survive is to run and murder the zombies around them!
 
-When jumping, if the player hits their head on the ceiling of a tile, it will cancel their jump and knock over any Koopas standing on that tile. If the player is directly below a POW block and hits it, it will use the POW block. 
+The player can move around the map by using the “W”, “A”, "S" and “D” keys, Space bar to jump, left mouse click to fire their weapon, right mouse click to aim down sights, the "R" key to reload and the "E" key to interact.
 
-When running, if the player lets go of their keys, the player will do a small sliding animation and carry on going in the same direction for a small moment. The Player can not go outside of the map.
+The player may only fire their weapon when they're aiming down sights.
 
-Once a player dies and loses a life, they will respawn to the same location they first were spawned in on the map. On each level, the player’s respawn location will change. Once a player loses all of their lives, they will not respawn again in that game. If their score is high enough, they may be placed into the high score table after the game ends.
+When shooting a gun, the player may hold down the left mouse button to rapid fire the gun. This will only work for guns which have this fire mode such as sub-machine guns and assault rifles. The player has limited ammo and so may need to purchase some new ammo from the ammo crate in the middle of the map, or purchase a new gun.
 
-#### POW Blocks
+The player may also upgrade their gun in the upgrade machine, this will increase the gun's damage and give it a blood red glow whenever the player fires.
 
-POW blocks can be used to knock over any Koopas on the map. When a POW block is hit, it uses up one out if its three uses. When the POW block runs out of uses, it disappears into thin air!
+#### The Guns
 
-#### Coins
+Around the map there are various guns placed around, the player can purchase these guns if they have enough points. Each gun has different rate of fire, damage, reload time, cost, ammo per mag and firing sound. Some weapons even have a unique characteristic such as the sniper rifle which has such a powerful impact it can penetrate through multiple zombies if alligned in a row!
 
-Coin spawn in random positions all over the map, each time the user enters a game, the coins will be in different positions. There are always a total of 20 coins on each level. The coins spawn in dedicated “potential coin spawn locations”. They may even spawn in the air, so the player has to jump to reach them! 
-
- 
+The guns may be upgraded in the upgrade machine, and can be repurchased multiple times.
